@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(./images/background.jpg);
+    background-image: url(./background.jpg);
     height: 110vh;
     background-size: cover;
     font-family: system-ui;
